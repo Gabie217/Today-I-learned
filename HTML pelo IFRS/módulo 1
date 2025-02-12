@@ -1,0 +1,20 @@
+<html> 
+    <head>
+        <title> Oi mundo! </title>
+    </head>
+    <body>
+        <header><h1>Curso de HTML</h1></header>
+        <!-- comentário -->
+        <nav>Menu</nav>
+        <a href="https://gabriellecertificados.blogspot.com"> Meus certificados </a>
+        <!-- parãmetros 
+         - DOWLOAD: para dizer que a informação, quando clicada, será salva na máquina;
+         - HREF: link 
+         - TARGET: _blank, _parent, _seft, _top: esses parâmetros servem para indicar aonde o link será aberto;
+        -->
+        
+        <section><p>Estou aprendendo sobre <b>HTML</b>.<hr>O <i>HTML</i> é composto de tags</p></section>
+    <!-- Outra opção é a linha separadora através da tag <hr>. 
+    O <hr> será essa linha que vai percorrer toda a extensão do meu navegador separando os elementos.-->
+    </body>
+</html>
